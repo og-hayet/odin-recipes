@@ -26,4 +26,10 @@ odin-recipes/
 │   ├── recipe2.html
 │   └── recipe3.html
 └── images/
-    ├── lasagna.png
+    └── lasagna.png
+
+🚀 How to View
+You can open the project with this link: .
+
+💭 What I Learned
+This project helped me understand how websites are structured and how to link pages and images using relative paths.
