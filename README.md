@@ -19,6 +19,7 @@ Each recipe page includes:
 - Organizing files into folders
 
 ## 🗂️ Project Structure
+```
 odin-recipes/ 
 │  
 ├── index.html  
@@ -28,6 +29,7 @@ odin-recipes/
 │   └── recipe3.html  
 └── images/  
     └── lasagna.png  
+‘‘‘
 
 ## 🚀 How to View
 You can open the project with this link: https://og-hayet.github.io/odin-recipes/
