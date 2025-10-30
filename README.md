@@ -16,3 +16,14 @@ Basic HTML boilerplate
 Headings, paragraphs, lists, and links
 Using relative paths for images and pages
 Organizing files into folders
+
+🗂️ Project Structure
+odin-recipes/
+│
+├── index.html
+├── pages/
+│   ├── lasagna.html
+│   ├── recipe2.html
+│   └── recipe3.html
+└── images/
+    ├── lasagna.png
