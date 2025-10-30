@@ -1,23 +1,24 @@
 # odin-recipes
-<h2>This is my first project from The Odin Project Foundations course.</h2> 
+# Recipes Project
 
-The goal of this project is to practice basic HTML structure and linking between pages.
+### This is my first project from [The Odin Project Foundations course](https://www.theodinproject.com/lessons/foundations-recipes).  
+The goal of this project is to practice basic **HTML structure** and **linking between pages**.
 
-🔥 <h3>Project Overview</h3> <br> 
-The website contains a main index page with links to a few recipes. <br>
-Each recipe page includes: <br>
-a title, <br>
-an image of the dish, <br>
-a list of ingredients, <br>
-and step-by-step instructions. <br>
+## 🔥 Project Overview
+The website contains a main index page with links to a few recipes.  
+Each recipe page includes:
+- a title,
+- an image of the dish,
+- a list of ingredients,
+- and step-by-step instructions.
 
-🧠 <h3>Skills Practiced</h3> <br>
-Basic HTML boilerplate <br>
-Headings, paragraphs, lists, and links <br>
-Using relative paths for images and pages <br>
-Organizing files into folders <br>
+## 🧠 Skills Practiced
+- Basic HTML boilerplate
+- Headings, paragraphs, lists, and links
+- Using relative paths for images and pages
+- Organizing files into folders
 
-🗂️ <h3>Project Structure</h3> <br>
+## 🗂️ Project Structure
 odin-recipes/ 
 │  
 ├── index.html  
@@ -28,9 +29,9 @@ odin-recipes/
 └── images/  
     └── lasagna.png  
 
-🚀 <h3>How to View</h3> <br>
+## 🚀 How to View
 You can open the project with this link: https://og-hayet.github.io/odin-recipes/
 
-💭 <h3>What I Learned</h3> <br>
-This project helped me understand how websites are structured and how to link pages and images using relative paths. <br>
+## 💭 What I Learned
+This project helped me understand how websites are structured and how to link pages and images using relative paths.  
 Also learned how to make good commits using IA.
