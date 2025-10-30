@@ -33,3 +33,4 @@ You can open the project with this link: .
 
 💭 What I Learned
 This project helped me understand how websites are structured and how to link pages and images using relative paths.
+Also learned how to make good commits using IA.
